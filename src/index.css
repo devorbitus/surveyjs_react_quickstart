@@ -1,3 +1,7 @@
+:root {
+  --primary: #056de2;
+}
+
 body {
   margin: 0;
   padding: 0;
